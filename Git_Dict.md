@@ -14,4 +14,4 @@ $ git pull origin main --allow-unrelated-histories
 $ git push-u origin main
 ```
 
-![image](C:\Users\LEESHOHYUN\Desktop\00305618)
+![image](./img/2021.10.06 PC견적 (1).png)
